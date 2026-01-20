@@ -76,7 +76,7 @@ record_user_details_json = {
 
 record_unknown_question_json = {
     "name": "record_unknown_question",
-    "description": "AlwaysH use this tool to record any question that couldn't be answered as you didn't know the answer",
+    "description": "Always use this tool to record any question that couldn't be answered as you didn't know the answer",
     "parameters": {
         "type": "object",
         "properties": {
